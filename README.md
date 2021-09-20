@@ -3,7 +3,7 @@ A Streamlit web application for the analysis of olympics dataset
   
 ## Images of working web app
   
-![Overall Tally](Images/Screenshot (21).png)
+![Overall Tally](./Images/Screenshot (21).png)
   
 ## Description of athlete_events.csv
 The file athlete_events.csv contains 271116 rows and 15 columns. Each row corresponds to an individual athlete competing in an individual Olympic event (athlete-events). The columns are:  
