@@ -35,7 +35,5 @@ Notes
 ![](Images/Screenshot%20(23).png)  
 ### Athlete-Wise Analysis
 ![](Images/Screenshot%20(24).png)  
-   
-Dataset Link: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
   
 Live Demo: https://shubham0001.herokuapp.com/
